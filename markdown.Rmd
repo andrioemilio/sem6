@@ -1,0 +1,11 @@
+---
+title: "sem6"
+author: "andrio emilio"
+date: "2023-08-04"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Sem 6 first push
